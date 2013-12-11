@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 lalalalal2
+=======
+lalalalal
+another line
+>>>>>>> 5bfe34657f7c6e2de1bbf9d196e887fba9bed111
